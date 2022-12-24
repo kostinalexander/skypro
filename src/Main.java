@@ -3,5 +3,9 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("привет мир!");
         System.out.println("привет!");
+
+        var cat = "кошка";
+        System.out.println("cat!");
+
     }
 }
